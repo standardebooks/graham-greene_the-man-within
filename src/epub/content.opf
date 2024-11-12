@@ -28,21 +28,27 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Man Within</dc:title>
 		<meta property="file-as" refines="#title">Man Within, The</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Sussex (England) -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Smugglers -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Betrayal -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Love -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh2008111372</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh2010113420</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2007101961</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2020006342</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A young smuggler, haunted by guilt and fear after betraying his comrades, seeks redemption while fleeing from his enemies and confronting his inner demons.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In &lt;i&gt;The Man Within&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/graham-greene"&gt;Graham Greene&lt;/a&gt; tells a tale of betrayal, fear, and the struggle for redemption. The story follows Francis Andrews, a young smuggler who betrays his comrades. Haunted by guilt and fear, he flees into the countryside, desperate to escape his new foes. He finds shelter in an isolated cottage, inhabited by a young woman living a solitary life. As his enemies close in, Andrews must confront his own cowardice, inner demons, and the consequences of his actions.&lt;/p&gt;
+			&lt;p&gt;The story explores themes of guilt, redemption, the nature of courage and cowardice, and the complex relationship between one’s inner beliefs and outward actions. Set against the backdrop of the English countryside, The Man Within offers an exploration of human nature, the consequences of our choices, and the possibility of finding redemption, even in the darkest of circumstances.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/manwithin0000grah</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
+		<meta property="se:word-count">71019</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Man_Within</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/graham-greene_the-man-within</meta>
