@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/graham-greene/the-man-within</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-01T09:01:00Z</dc:date>
+		<meta property="dcterms:modified">2025-01-01T09:01:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,17 +39,17 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2007101961</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
-		<meta property="term" refines="#subject-3">sh2020006342</meta>
+		<meta property="term" refines="#subject-4">sh2020006342</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young smuggler, haunted by guilt and fear after betraying his comrades, seeks redemption while fleeing from his enemies and confronting his inner demons.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In &lt;i&gt;The Man Within&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/graham-greene"&gt;Graham Greene&lt;/a&gt; tells a tale of betrayal, fear, and the struggle for redemption. The story follows Francis Andrews, a young smuggler who betrays his comrades. Haunted by guilt and fear, he flees into the countryside, desperate to escape his new foes. He finds shelter in an isolated cottage, inhabited by a young woman living a solitary life. As his enemies close in, Andrews must confront his own cowardice, inner demons, and the consequences of his actions.&lt;/p&gt;
-			&lt;p&gt;The story explores themes of guilt, redemption, the nature of courage and cowardice, and the complex relationship between one’s inner beliefs and outward actions. Set against the backdrop of the English countryside, The Man Within offers an exploration of human nature, the consequences of our choices, and the possibility of finding redemption, even in the darkest of circumstances.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;The Man Within&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/graham-greene"&gt;Graham Greene&lt;/a&gt; tells a tale of betrayal, fear, and the struggle for redemption. The story follows Francis Andrews, a young smuggler who betrays his comrades. Haunted by guilt and fear, he flees into the countryside, desperate to escape his new foes. He finds shelter in an isolated cottage inhabited by a solitary young woman. As his enemies close in, Andrews must confront his own cowardice and inner demons, as well as the consequences of his actions.&lt;/p&gt;
+			&lt;p&gt;The novel explores themes of guilt, redemption, the nature of courage and cowardice, and the complex relationship between one’s inner beliefs and outward actions. Set against the backdrop of the English countryside, &lt;i&gt;The Man Within&lt;/i&gt; offers an exploration of human nature, choice and consequence, and the possibility of finding redemption, even in the darkest of circumstances.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/manwithin0000grah</dc:source>
-		<meta property="se:word-count">71019</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">70310</meta>
+		<meta property="se:reading-ease.flesch">83.66</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Man_Within</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/graham-greene_the-man-within</meta>
 		<dc:creator id="author">Graham Greene</dc:creator>
