@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/graham-greene/the-man-within</dc:identifier>
 		<dc:date>2025-01-01T09:01:00Z</dc:date>
@@ -43,11 +43,11 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2020006342</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young smuggler, haunted by guilt and fear after betraying his comrades, seeks redemption while fleeing from his enemies and confronting his inner demons.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young smuggler, haunted by guilt and fear after betraying his comrades, seeks redemption while fleeing from his enemies and confronting his inner demons.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In &lt;i&gt;The Man Within&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/graham-greene"&gt;Graham Greene&lt;/a&gt; tells a tale of betrayal, fear, and the struggle for redemption. The story follows Francis Andrews, a young smuggler who betrays his comrades. Haunted by guilt and fear, he flees into the countryside, desperate to escape his new foes. He finds shelter in an isolated cottage inhabited by a solitary young woman. As his enemies close in, Andrews must confront his own cowardice and inner demons, as well as the consequences of his actions.&lt;/p&gt;
 			&lt;p&gt;The novel explores themes of guilt, redemption, the nature of courage and cowardice, and the complex relationship between one’s inner beliefs and outward actions. Set against the backdrop of the English countryside, &lt;i&gt;The Man Within&lt;/i&gt; offers an exploration of human nature, choice and consequence, and the possibility of finding redemption, even in the darkest of circumstances.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/manwithin0000grah</dc:source>
 		<meta property="schema:wordCount">69073</meta>
