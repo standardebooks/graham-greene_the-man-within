@@ -43,7 +43,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2020006342</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young smuggler, haunted by guilt and fear after betraying his comrades, seeks redemption while fleeing from his enemies and confronting his inner demons.</dc:abstract>
+		<meta property="schema:abstract">A young smuggler, haunted by guilt and fear after betraying his comrades, seeks redemption while fleeing from his enemies and confronting his inner demons.</meta>
 		<dc:description>
 			&lt;p&gt;In &lt;i&gt;The Man Within&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/graham-greene"&gt;Graham Greene&lt;/a&gt; tells a tale of betrayal, fear, and the struggle for redemption. The story follows Francis Andrews, a young smuggler who betrays his comrades. Haunted by guilt and fear, he flees into the countryside, desperate to escape his new foes. He finds shelter in an isolated cottage inhabited by a solitary young woman. As his enemies close in, Andrews must confront his own cowardice and inner demons, as well as the consequences of his actions.&lt;/p&gt;
 			&lt;p&gt;The novel explores themes of guilt, redemption, the nature of courage and cowardice, and the complex relationship between one’s inner beliefs and outward actions. Set against the backdrop of the English countryside, &lt;i&gt;The Man Within&lt;/i&gt; offers an exploration of human nature, choice and consequence, and the possibility of finding redemption, even in the darkest of circumstances.&lt;/p&gt;
